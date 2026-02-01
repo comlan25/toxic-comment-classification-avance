@@ -43,3 +43,6 @@ git clone [https://github.com/comlan25/toxic-comment-classification-avance.git](
 
 # Installer les dépendances (inclus Transformers, Torch, Gensim)
 pip install -r requirements.txt
+
+👉 **Voir le notebook via NBViewer**  
+https://nbviewer.org/github/comlan25/toxic-comment-classification_avancé/blob/main/Toxic_Comment_Class_Final.ipynb
