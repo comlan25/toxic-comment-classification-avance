@@ -29,7 +29,6 @@ Les résultats démontrent la supériorité des approches basées sur les Transf
 * Visualisation : Seaborn, Matplotlib
 
 ## 📊 Performance & Comparaison
-## 📊 Performance & Comparaison
 Les résultats démontrent la supériorité des approches basées sur les Transformers par rapport au projet initial :
 
 * **Transformers (BERT)** : Performances exceptionnelles avec une **Accuracy de 98%** et un **AUC de 0.995**.
