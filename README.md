@@ -29,9 +29,13 @@ Les résultats démontrent la supériorité des approches basées sur les Transf
 * Visualisation : Seaborn, Matplotlib
 
 ## 📊 Performance & Comparaison
-... (ton texte actuel) ...
+## 📊 Performance & Comparaison
+Les résultats démontrent la supériorité des approches basées sur les Transformers par rapport au projet initial :
 
-![Comparaison des courbes ROC](roc_curve_comparison.png)
+* **Transformers (BERT)** : Performances exceptionnelles avec une **Accuracy de 98%** et un **AUC de 0.995**.
+* **GloVe + LR** : Approche robuste et rapide avec un **AUC de 0.947**.
+* **Prompt Engineering** : Le **Few-shot prompting** montre une nette amélioration par rapport au Zero-shot, prouvant l'importance du contexte pour les LLM.
+
 
 ## 🛠️ Installation
 ```bash
